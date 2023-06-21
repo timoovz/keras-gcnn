@@ -1,5 +1,5 @@
 from keras import backend as K
-from keras.engine import Layer
+from keras.layers import Layer
 from keras.utils import get_custom_objects
 
 
