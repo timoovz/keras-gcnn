@@ -1,6 +1,6 @@
 from groupy.gconv.tensorflow_gconv.splitgconv2d import gconv2d_util
 from keras import backend as K
-from keras.engine import InputSpec
+from keras.layers import InputSpec
 from keras.layers import BatchNormalization
 from keras.utils import get_custom_objects
 
